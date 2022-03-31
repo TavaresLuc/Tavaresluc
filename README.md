@@ -2,6 +2,6 @@
 
 - 💬 Estudante de Análise e Desenvolvimento de Sistemas.
 
-- 🌱 Atualmente estou focado em evoluir nas tecnologias HTML5, CSS3 e JavaScript.
+- 🌱 Atualmente estou focado em evoluir nas tecnologias HTML5, CSS3 e JavaScript e React.
 
-- 📫 How to reach me: tavaresluc@gmail.com | [LinkeDin](https://www.linkedin.com/in/lucas-o-tavares/) 
+- 📫 How to reach me: tavaresluc@gmail.com | [Linkedin](https://www.linkedin.com/in/lucas-o-tavares/) 
