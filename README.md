@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Tavares</h1>
 <h3 align="center">A passionate frontend and backend developer from Brasil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tavaresluc" alt="tavaresluc" /></a> </p>
-
 - 🔭 I’m currently working on [FindYourDuo](https://github.com/TavaresLuc/FindYourDuo-NLW-eSports)
 
 - 🌱 I’m currently learning **TypeScript, React and React Native.**
