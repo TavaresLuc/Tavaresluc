@@ -43,10 +43,7 @@
   </a>
 
 ###
-
+<img height="102" src="https://gist.githubusercontent.com/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif"  />
 <br clear="right">
 
-<div align="center">
-  <img height="102" src="https://gist.githubusercontent.com/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif"  />
-</div>
 </div>
