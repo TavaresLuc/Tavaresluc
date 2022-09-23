@@ -41,9 +41,6 @@
   <a href="https://www.linkedin.com/in/lucas-o-tavares/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
-
+<br clear="right">
 ###
-<img height="102" src="https://gist.githubusercontent.com/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif"  />
-
-
 </div>
