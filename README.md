@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning TypeScript, React and React Native.<br><br>💻 I’m currently working at Softcom Tecnologia -  I'm System Analyst, using Visual Basics, Access, SQL Server and MySQL<br><br>📫 How to reach me: tavaresluc@gmail.com</p>
+<p align="left">🌱 I’m currently learning TypeScript, React and React Native.<br><br>💻 I am currently working as a systems analyst.<br><br>📫 How to reach me: tavaresluc@gmail.com</p>
 
 ###
 
