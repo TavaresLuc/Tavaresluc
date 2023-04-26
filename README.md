@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning TypeScript, React and React Native.<br><br>💻 I am currently working as a system analyst.<br><br>📫 How to reach me: tavaresluc@gmail.com</p>
+<p align="left">💻 I am currently working as a system analyst.<br><br>📫 How to reach me: tavaresluc@gmail.com</p>
 
 ###
 
