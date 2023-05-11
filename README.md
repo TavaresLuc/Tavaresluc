@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Lucas and I'm a developer, from João Pessoa - PB, Brazil.</h2>
+<h2 align="left">Hi 👋! My name is Lucas and I'm a developer, based in João Pessoa - PB, Brazil.</h2>
 
 ###
 
