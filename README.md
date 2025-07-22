@@ -2,7 +2,7 @@
 
 <p align="left">
 💻 Currently, I work as a Back-end Developer at BrasilCard, a financial institution.<br><br>
-🛠️ Technologies I use: VB6, SQL Server, C# .Net.<br><br>
+🛠️ Technologies I use: React, TypeScript, C# .Net, VB and SQL Server.<br><br>
 📫 Feel free to reach out to me at: <a href="mailto:tavaresluc@gmail.com">tavaresluc@gmail.com</a>
 </p>
 
